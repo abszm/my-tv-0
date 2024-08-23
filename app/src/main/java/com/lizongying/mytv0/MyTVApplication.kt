@@ -9,7 +9,7 @@ import android.os.Looper
 import android.util.DisplayMetrics
 import android.view.WindowManager
 import android.widget.Toast
-import java.util.*
+import java.util.Locale
 
 class MyTVApplication : Application() {
 
