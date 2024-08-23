@@ -2,13 +2,14 @@ package com.lizongying.mytv0
 
 import android.app.Application
 import android.content.Context
+import android.content.res.Configuration
 import android.content.res.Resources
 import android.os.Handler
 import android.os.Looper
 import android.util.DisplayMetrics
 import android.view.WindowManager
 import android.widget.Toast
-import java.util.Locale
+import java.util.*
 
 class MyTVApplication : Application() {
 
